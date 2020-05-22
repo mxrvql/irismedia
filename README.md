@@ -1,2 +1,1 @@
-# irismedia
-multi-media creations
+#Iris Multi-Media creations
